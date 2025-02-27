@@ -3,8 +3,9 @@
 A **personal project** to programmatically add dynamic lists (like source IP lists) to a **UniFi** controller.
 
 > [!TIP]
-> Dynamically manage domain or subnet lists for **policy-based routing**.  
-> Manage IP lists for firewall ACLs.
+>
+> - Dynamically manage domain or subnet lists for **policy-based routing**.
+> - Manage IP lists for firewall ACLs.
 
 ---
 
