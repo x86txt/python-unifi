@@ -1,12 +1,12 @@
 # unifi/config.py
 
 # UniFi Controller Configuration
-UNIFI_HOST = "10.5.22.112"
+UNIFI_HOST = "your_unifi_host"
 UNIFI_PORT = 443
 UNIFI_SITE = "default"
 DUMMY_USERNAME = "dummy"
 DUMMY_PASSWORD = "dummy"
-API_KEY = "0FYFqjiL6V7Z9iKMfFEoCATiEvlatT_h"
+API_KEY = "your_api_key"
 
 # Microsoft 365 Endpoints URL
 MICROSOFT_ENDPOINT_URL = (
