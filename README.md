@@ -4,8 +4,8 @@ A **personal project** to programmatically add dynamic lists (like source IP lis
 
 > [!TIP]
 >
-> - Dynamically manage domain or subnet lists for **policy-based routing**.
-> - Manage IP lists for firewall ACLs.
+> Dynamically manage domain or subnet lists for **policy-based routing**.
+> Manage IP lists for firewall ACLs.
 
 ---
 
@@ -35,8 +35,7 @@ A **personal project** to programmatically add dynamic lists (like source IP lis
 
 ## ❤️ Huge Thanks
 
-This project **wouldn’t be possible** without the amazing work by:  
-[Kane610/aiounifi](https://github.com/Kane610/aiounifi) ❤️
+This project **wouldn’t be possible** without the amazing work by: [Kane610/aiounifi](https://github.com/Kane610/aiounifi) ❤️
 
 ---
 
