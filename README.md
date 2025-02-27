@@ -48,7 +48,7 @@ If you find this useful, **give it a star ⭐** or feel free to contribute! Pull
 
 ---
 
-## 🔧 Future Enhancements (Optional Section)
+## 🔧 Future Enhancements
 
 - ✅ Auto-detection of best WAN connection
 - ✅ Enhanced logging & reporting
