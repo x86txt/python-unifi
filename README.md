@@ -1,4 +1,4 @@
-# 🚀 UniFi Dynamic Policy Routing
+# 🚀 UniFi Python CI/CD
 
 A **personal project** to programmatically add dynamic lists (like source IP lists) to a **UniFi** controller.  
 This enables **policy-based routing** for services like **Microsoft Teams Video**, ensuring it always uses the best **multi-WAN connection**.
